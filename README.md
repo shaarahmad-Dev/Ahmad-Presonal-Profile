@@ -1,7 +1,5 @@
 # 👨‍💻 Ahmad Shaar - Personal Portfolio
 
-![Portfolio Preview](/assets/imgs/webPageImg.png)
-
 A modern, responsive personal portfolio website showcasing my journey as a Software Engineer and IT student at Rafic Hariri Technical Institute.
 
 ## ✨ Features
@@ -30,30 +28,7 @@ A modern, responsive personal portfolio website showcasing my journey as a Softw
   - Gradient backgrounds
   - Media queries for responsiveness
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- A modern web browser (Chrome, Firefox, Safari, Edge)
-- Optional: [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension for VS Code
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/shaarahmad-Dev/Ahmad-Presonal-Profile.git
-   ```
-
-2. **Navigate to the project directory**
-   ```bash
-   cd Ahmad-Presonal-Profile
-   ```
-
-3. **Open the project**
-   - Using Live Server: Right-click on `index.html` and select "Open with Live Server"
-   - Or simply open `index.html` in your web browser
-
-## 📁 Project Structure
+# 📁 Project Structure
 
 ```
 Ahmad-Presonal-Profile/
@@ -78,24 +53,5 @@ Ahmad-Presonal-Profile/
 - **Desktop**: 1024px and above
 - **Tablet/Mobile**: Below 1023px
 
-## 🌐 Connect With Me
-
-- **Email**: mkbusiness202@gmail.com
-- **LinkedIn**: [linkedin.com/in/musaabkubbi](https://www.linkedin.com/in/musaabkubbi/)
-- **GitHub**: [github.com/MusaabK99](https://github.com/MusaabK99)
-- **Twitter**: [@MusaabK99](https://x.com/MusaabK99)
-- **YouTube**: [My Channel](https://youtu.be/VzAxCThj_5k?si=4WwLBuOnbGhgAQ2q)
-
-## 📝 License
-
-This project is open source and available for personal and educational use.
-
-## 🙏 Acknowledgments
-
-- Design inspiration from modern portfolio trends
-- Icons and graphics created with care
-- Built with passion for web development
-
----
 
 **Made with ❤️ by Ahmad Shaar** | © 2025 All Rights Reserved
